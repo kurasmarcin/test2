@@ -1,1 +1,23 @@
-wsb
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <title>Tytuł strony</title>
+</head>
+<body>
+<?php
+$firstName="Janusz";
+$lastName = "Janusz"
+echo  "Imie i nazwisko: $firstName $lastName";
+
+?>
+  <header></header>
+  
+  <section>
+    <h1></h1>
+  </section>
+  <footer></footer>
+</body>
+</html>
